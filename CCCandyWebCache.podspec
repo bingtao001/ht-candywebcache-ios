@@ -22,7 +22,9 @@ Pod::Spec.new do |s|
 
   s.license      = "MIT"
 
-  s.source       = { :git => 'https://g.hz.netease.com/web-cache/CCCandyWebCache-ios.git' }
+  s.author       = { "xinwang" => "xingwangh@qq.com" }
+
+  s.source       = { :git => 'https://github.com/bingtao001/ht-candywebcache-ios.git' }
 
   s.platform     = :ios, "7.0"
 
